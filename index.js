@@ -51,6 +51,7 @@ const main = async () => {
             {
               name: overrideContainer,
               command: overrideContainerCommand,
+              entryPoint: [""],
             },
           ],
         };
